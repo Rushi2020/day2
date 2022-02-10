@@ -7,6 +7,7 @@ namespace day2
         static void main(string[] args)
         {
             Console.WriteLine("hello world");
+            Console.WriteLine("hello");
         }
     }
 }
